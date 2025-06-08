@@ -1,27 +1,10 @@
 [
     {
-        "uri": "https://chromium.googlesource.com/chromium/tools/depot_tools.git",
+        "uri": "git@github.com:Wattlogix/wl_debugui.git",
         "branch": "main"
     },
     {
         "uri": "https://github.com/flutter/packages.git",
-        "branch": "main"
-    },
-    {
-        "uri": "https://github.com/flutter/samples.git",
-        "branch": "main"
-    },
-    {
-        "uri": "https://github.com/flutter/games.git",
-        "branch": "main",
-        "pubspec_path": "games/templates/endless_runner"
-    },
-    {
-        "uri": "https://github.com/flutter/super_dash.git",
-        "branch": "main"
-    },
-    {
-        "uri": "https://github.com/Baseflow/flutter-geolocator.git",
         "branch": "main"
     }
 ]
